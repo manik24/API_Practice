@@ -1,7 +1,7 @@
 {
 	"first_name": "Manik",
 	"last_name": "kumar",
-	"id": "M123",
+	"id": "{{id}}",
 	"email": {
 		"primary_email": "mas@je.com",
 		"secondary_email": "esd@ee.com"

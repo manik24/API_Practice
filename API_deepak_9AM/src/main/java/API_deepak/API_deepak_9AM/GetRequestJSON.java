@@ -30,7 +30,7 @@ public class GetRequestJSON {
 			given()
 			.contentType(ContentType.JSON)
 			.when()
-			.get("http://localhost:3000/MANIKapiBATCH?First Name=Test"); //get request using path parameter(path used is id here)
+			.get("http://localhost:3000/MANIKapiBATCH?First Name=Test"); //get request using query  parameter(path used is id here)
 										
 			
 			

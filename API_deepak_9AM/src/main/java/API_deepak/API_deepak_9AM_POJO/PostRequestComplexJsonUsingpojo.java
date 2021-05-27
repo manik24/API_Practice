@@ -11,6 +11,8 @@ public class PostRequestComplexJsonUsingpojo {
 
 public static void main(String[] args) {
 	
+
+	
 	KYCclass obj2= new KYCclass();
 	obj2.setCity("Chandigarh");
 	obj2.setLandmark("Elante");
